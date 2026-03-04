@@ -1,0 +1,151 @@
+{
+    "itinerary_name": "Downtown Shawnee, KS",
+    "radius": 500,
+    "short_description": "A surprisingly vibrant small-town downtown with antiques, local bars, and hidden history.",
+    "long_description": "Shawnee's Johnson Drive corridor is one of the KC metro's best-kept secrets — a genuine small-town main street with a growing dining and bar scene, great antiquing, and a living history museum that most locals have never visited.\n\nHistory buffs should carve out time for Shawnee Town 1929 Museum, an outdoor living history site with restored buildings that recreate early 20th-century small-town Kansas life. It's fun, underrated, and worth more time than you'd expect.\n\nWhen it's time to eat and drink, the options punch well above their weight. Hank's Garage and Grill is a beloved neighborhood bar with a retro aesthetic and legitimately great smash burgers. District Pour House + Kitchen anchors the Johnson Drive social scene with a broad menu — don't skip the truffle fries or peanut butter pie. For craft beer, Friction Beer Company is one of the Kansas side's best neighborhood breweries, with a rotating tap list and rock memorabilia covering every wall. And if you're in the mood for something more intimate, Wild Child Libations is a cozy craft cocktail bar with wildly creative seasonal drinks — reservations strongly recommended.",
+    "locations": [
+        {
+            "formatted_address": "5801 Nieman Rd, Shawnee, KS 66203, USA",
+            "name": "Hank's Garage and Grill",
+            "place_id": "ChIJSVf8EzntwIcRH9_Sz94No94",
+            "price_level": null,
+            "rating": 4.7,
+            "types": [
+                "bar",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": null,
+            "website": null,
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+            ],
+            "notes": "Retro garage aesthetic, legitimately great smash burgers. Excellent veggie burger too.",
+            "tags": ["neighborhood", "retro", "dive bar"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 39.023662,
+            "lng": -94.714263
+        },
+        {
+            "formatted_address": "11101 Johnson Dr, Shawnee, KS 66203, USA",
+            "name": "District Pour House + Kitchen",
+            "place_id": "ChIJU7v3sx7twIcRluVLY2eVAoU",
+            "price_level": 2,
+            "rating": 4.5,
+            "types": [
+                "bar",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(913) 283-8585",
+            "website": "http://districtks.com/",
+            "opening_hours": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u200912:30\u202fAM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20092:30\u202fAM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM"
+            ],
+            "notes": "Championship-winning burger, bayou salmon, truffle fries, peanut butter pie.",
+            "tags": ["craft beer", "cocktails"],
+            "include": true,
+            "icon_category": "bar",
+            "lat": 39.0227169,
+            "lng": -94.71479180000001
+        },
+        {
+            "formatted_address": "11501 W 57th St, Shawnee, KS 66203, USA",
+            "name": "Shawnee Town 1929 Museum",
+            "place_id": "ChIJTQ8PVi7twIcR9YCVzHHRwg0",
+            "price_level": null,
+            "rating": 4.6,
+            "types": [
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(913) 248-2360",
+            "website": "http://www.shawneetown.org/",
+            "opening_hours": null,
+            "notes": "Living history museum recreating a 1920s Kansas town. Working farm with crops and chickens, vintage storefronts, gas pumps. Fun and underrated.",
+            "tags": ["history", "museum", "family", "outdoors"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.0252552,
+            "lng": -94.7202599
+        },
+        {
+            "formatted_address": "11022 Johnson Dr, Shawnee, KS 66203, USA",
+            "name": "Wild Child Libations",
+            "place_id": "ChIJcan0sPvtwIcRgTJBIMkxrf4",
+            "price_level": null,
+            "rating": 4.5,
+            "types": [
+                "bar",
+                "establishment",
+                "point_of_interest"
+            ],
+            "phone": "(913) 444-0905",
+            "website": "https://wildchildkc.com/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: 4:00\u2009\u2013\u200911:00\u202fPM",
+                "Wednesday: 4:00\u2009\u2013\u200911:00\u202fPM",
+                "Thursday: 4:00\u2009\u2013\u200911:00\u202fPM",
+                "Friday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+                "Saturday: 3:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+                "Sunday: Closed"
+            ],
+            "notes": "One of the best cocktail bars in the whole metro. Vintage atmosphere, wildly creative seasonal cocktails, whimsical presentation. Reservations strongly recommended.",
+            "tags": ["cocktails", "speakeasy", "upscale"],
+            "include": true,
+            "icon_category": "bar",
+            "lat": 39.0231076,
+            "lng": -94.7144416
+        },
+        {
+            "formatted_address": "11018 Johnson Dr, Shawnee, KS 66203, USA",
+            "name": "Friction Beer Company",
+            "place_id": "ChIJ08LfRiztwIcRUyAiqNHQHxc",
+            "price_level": null,
+            "rating": 4.8,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest"
+            ],
+            "phone": "(913) 232-9531",
+            "website": "https://frictionbeer.com/",
+            "opening_hours": [
+                "Monday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: Closed",
+                "Wednesday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "Rock music-themed craft brewery in downtown Shawnee with a wide rotating tap list, memorabilia-covered walls, and a welcoming taproom vibe. One of the Kansas side's best neighborhood breweries.",
+            "tags": ["craft beer"],
+            "include": true,
+            "icon_category": "beer",
+            "lat": 39.023114,
+            "lng": -94.7142743
+        }
+        
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "itinerary_name": "South Overland Park Hidden Gems",
+    "radius": 0,
+    "short_description": "Family-friendly farms, beautiful gardens, and great dining in south OP.",
+    "long_description": "South Overland Park offers a quieter, greener side of the Kansas City metro — a blend of family attractions, natural beauty, and neighborhood dining that rewards a leisurely day of exploration. \n\nStart at Deanna Rose Children's Farmstead, a beloved free farm experience where kids can feed baby goats, fish, and explore working farm buildings. For a more contemplative outing, the Overland Park Arboretum & Botanical Gardens spans 300 acres of themed gardens, native plantings, wooded trails, and an international sculpture garden. \n\nWhen you're ready to eat, Martin City is just a short drive away and one of KC's best compact dining corridors — with Jack Stack Barbecue, Jess and Jim's Steak House, Martin City Brewing Co., and Margarita's all within a few blocks of each other. This itinerary spans a wider area, but each stop earns the drive.",
+    "locations": [
+        {
+            "formatted_address": "13800 Switzer Rd, Overland Park, KS 66221, USA",
+            "name": "Deanna Rose Children's Farmstead",
+            "place_id": "ChIJt6IUwjvAwIcRwbplAuF1vmw",
+            "price_level": null,
+            "rating": 4.8,
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(913) 897-2360",
+            "website": "http://www.opkansas.org/things-to-see-and-do/deanna-rose-childrens-farmstead/",
+            "opening_hours": null,
+            "notes": "Beloved Overland Park attraction with farm animals, pony rides, a fishing pond, and hands-on exhibits. A go-to for families with young kids.",
+            "tags": ["animals", "family", "nature", "outdoors"],
+            "include": true,
+            "icon_category": "family",
+            "lat": 38.877729,
+            "lng": -94.703345
+        },
+        {
+            "formatted_address": "8909 W 179th St, Overland Park, KS 66013, USA",
+            "name": "Overland Park Arboretum & Botanical Gardens",
+            "place_id": "ChIJ6csjvynHwIcROSH92_fu6ng",
+            "price_level": null,
+            "rating": 4.8,
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(913) 685-3604",
+            "website": "https://www.opkansas.org/recreation-fun/arboretum-botanical-gardens/",
+            "opening_hours": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "300-acre public garden with themed gardens, wooded trails, and internation sculpture garden, and seasonal wildflower displays.",
+            "tags": ["art", "family", "hiking", "nature", "outdoors"],
+            "include": true,
+            "icon_category": "park",
+            "photo": "monet",
+            "caption": "Sculpture of French Impressionist, Claude Monet",
+            "lat": 38.8033925,
+            "lng": -94.68911589999999
+        }
+
+ 
+ 
+  
+            
+        
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "itinerary_name": "Crown Center & Union Station",
+    "radius": 300,
+    "short_description": "World-class history, hands-on science, and KC's grandest landmark — all in one walkable cluster.",
+    "long_description": "The Crown Center and Union Station corridor is one of Kansas City's most rewarding family destinations, packing an impressive range of museums and attractions into a compact, walkable area just south of downtown. Union Station itself is worth a visit just for the architecture — a beautifully restored Beaux-Arts train terminal that anchors the whole district. \n\nInside, Science City is an expansive two-floor interactive science museum that keeps kids and curious adults engaged for hours, covering everything from robotics and space to nature and engineering. The adjacent Arvin Gottlieb Planetarium offers affordable dome shows on astronomy and the night sky, a perfect complement to the science museum. \n\nJust up the hill, the National WWI Museum and Memorial is one of the finest history museums in the country — its immersive exhibits, stunning artifact collection, and Liberty Memorial tower with panoramic city views make it a must-visit even for those with no particular interest in the period. Crown Center, the Hallmark-owned retail and entertainment complex nearby, rounds out the visit with unique shops, restaurants, and family-friendly seasonal events.",
+    "locations": [
+        {
+            "formatted_address": "2 Memorial Dr, Kansas City, MO 64108, USA",
+            "name": "National WWI Museum and Memorial",
+            "place_id": "ChIJpzAyJjzwwIcRXzXcqOrhTJE",
+            "price_level": null,
+            "rating": 4.9,
+            "types": [
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 888-8100",
+            "website": "https://www.theworldwar.org/",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Tuesday: Closed",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "The country's leading WWI museum, with immersive exhibits, beautifully preserved artifacts, and a soaring Liberty Memorial tower with skyline views.",
+            "tags": ["family", "history"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.080663,
+            "lng": -94.5860835
+        },
+        {
+            "formatted_address": "2450 Grand Blvd Suite 200, Kansas City, MO 64108, USA",
+            "name": "Crown Center",
+            "place_id": "ChIJUc2lpBXwwIcRiYJq6GIarOk",
+            "price_level": null,
+            "rating": 4.5,
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "shopping_mall"
+            ],
+            "phone": "(816) 274-8444",
+            "website": "http://www.crowncenter.com/",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "Hallmark's flagship retail and entertainment complex adjacent to Union Station, with unique shops, restaurants, and year-round family attractions. Known for its spectacular holiday events including an indoor ice rink and elaborate seasonal displays.",
+            "tags": ["family", "food", "shopping"],
+            "include": true,
+            "icon_category": "shop",
+            "lat": 39.0827778,
+            "lng": -94.58222219999999
+        },
+        {
+            "formatted_address": "30 W Pershing Rd, Kansas City, MO 64108, USA",
+            "name": "Science City at Union Station",
+            "place_id": "ChIJn_t4g0DwwIcRyfxLerZpdrE",
+            "price_level": null,
+            "rating": 4.8,
+            "types": [
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 460-2000",
+            "website": "http://www.unionstation.org/sciencecity",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "Expansive hands-on science museum inside Union Station with two floors of interactive exhibits covering space, robotics, nature, and more. A go-to for families.",
+            "tags": ["family", "science"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.085408,
+            "lng": -94.5861467
+        },
+        {
+            "formatted_address": "30 W Pershing Rd, Kansas City, MO 64108, USA",
+            "name": "The Arvin Gottlieb Planetarium",
+            "place_id": "ChIJoQAcYz_wwIcRR9wm2vILbRA",
+            "price_level": null,
+            "rating": 4.6,
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ],
+            "phone": "(816) 460-2020",
+            "website": "https://planetarium.unionstation.org/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "Intimate domed planetarium inside Union Station with affordable shows covering astronomy, night sky tours, and space exploration.",
+            "tags": ["family", "science"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.0850595,
+            "lng": -94.5864326
+        }
+    ]
+}

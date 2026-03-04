@@ -1,0 +1,153 @@
+{
+    "itinerary_name": "Swope Park Attractions",
+    "radius": 2000,
+    "short_description": "KC's great urban park — trails, wildlife, and world-class outdoor theater.",
+    "long_description": "Swope Park is one of the largest urban parks in the United States, sprawling across more than 1,700 acres on Kansas City's south side. It's a destination that rewards visitors of all kinds. Hikers and mountain bikers will find miles of well-maintained singletrack at the Wudchuk Run and Mountain Bike trailheads, winding through dense hardwood forest and creek drainages. \n\nFamilies can spend a full day at the Kansas City Zoo & Aquarium, home to hundreds of species across immersive habitats. As the sun goes down, the iconic Starlight Theatre — an open-air amphitheater nestled into the hillside — comes alive with Broadway productions and concerts under the Missouri sky. Swope Park is a rare place where a morning trail run and an evening show can share the same day.",
+    "locations": [
+        {
+            "formatted_address": "3999 Swope Pkwy &, 3999 E Meyer Blvd, Kansas City, MO 64132, USA",
+            "name": "Swope Park",
+            "place_id": "ChIJJXWMkZXlwIcR9z1TYhP-7go",
+            "price_level": null,
+            "rating": 4.5,
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 513-7500",
+            "website": "http://kcparks.org/park/swope-park/",
+            "opening_hours": [
+                "Monday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Tuesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Wednesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Thursday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Friday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Saturday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Sunday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+            ],
+            "notes": "One of the largest municipal parks in the US at 1,800+ acres, with lakes, picnic shelters, disc golf, and miles of green space.",
+            "tags": ["outdoors", "nature", "family", "hiking", "biking"],
+            "include": true,
+            "icon_category": "park",
+            "lat": 39.0078385,
+            "lng": -94.5347889
+        },
+        {
+            "formatted_address": "4600 Starlight Rd, Kansas City, MO 64132, USA",
+            "name": "Starlight Theatre",
+            "place_id": "ChIJg_zL1bnlwIcRm84warYbqKg",
+            "price_level": 2,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ],
+            "phone": "(816) 363-7827",
+            "website": "https://www.kcstarlight.com/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: Closed",
+                "Sunday: Closed"
+            ],
+            "notes": "KC's iconic 8,000-seat outdoor amphitheater hosting Broadway touring shows and major concerts all summer long.",
+            "tags": ["theater", "live music", "outdoors"],
+            "include": true,
+            "icon_category": "theater",
+            "lat": 39.00745440000001,
+            "lng": -94.53282209999999
+        },
+        {
+            "formatted_address": "6800 Zoo Dr, Kansas City, MO 64132, USA",
+            "name": "Kansas City Zoo & Aquarium",
+            "place_id": "ChIJAaCDFcrlwIcR_a72DelJT7Q",
+            "price_level": null,
+            "rating": 4.6,
+            "types": [
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction",
+                "zoo"
+            ],
+            "phone": "(816) 595-1234",
+            "website": "https://www.kansascityzoo.org/",
+            "opening_hours": [
+                "Monday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Tuesday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Wednesday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Thursday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Friday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Saturday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Sunday: 9:30\u202fAM\u2009\u2013\u20094:00\u202fPM"
+            ],
+            "notes": "Full-scale zoo with penguins, gorillas, tigers, and an aquarium, all spread across a sprawling Swope Park campus.",
+            "tags": ["zoo", "family"],
+            "include": true,
+            "icon_category": "zoo",
+            "lat": 39.0072568,
+            "lng": -94.52934429999999
+        },
+        {
+            "formatted_address": "6304 Oakwood Rd #6000, Kansas City, MO 64132, USA",
+            "name": "Swope Park Trails - Wudchuk Run Trail Head",
+            "place_id": "ChIJIWpgCCnkwIcRFVDoBipvdhU",
+            "price_level": null,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ],
+            "phone": null,
+            "website": "https://kcparks.org/places/swope-utc-trail/",
+            "opening_hours": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ],
+            "notes": "Popular singletrack trail running loop winding through the wooded ravines of Swope Park.",
+            "tags": ["hiking", "outdoors", "nature"],
+            "include": true,
+            "icon_category": "hiking",
+            "lat": 38.9870212,
+            "lng": -94.5139851
+        },
+        {
+            "formatted_address": "6001 Oakwood Dr, Kansas City, MO 64132, USA",
+            "name": "Swope Park Mountain Bike Trailhead",
+            "place_id": "ChIJx5jOTCzkwIcRJacrrLZN_AQ",
+            "price_level": null,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ],
+            "phone": null,
+            "website": "https://www.trailforks.com/region/swope-park/",
+            "opening_hours": [
+                "Monday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Tuesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Wednesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Thursday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Friday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Saturday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Sunday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+            ],
+            "notes": "Dedicated mountain biking network within Swope Park with intermediate to advanced terrain and well-maintained flow trails.",
+            "tags": ["biking", "outdoors", "nature"],
+            "include": true,
+            "icon_category": "biking",
+            "lat": 38.9914538,
+            "lng": -94.51756519999999
+        }
+    ]
+}

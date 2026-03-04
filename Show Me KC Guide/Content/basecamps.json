@@ -1,0 +1,34 @@
+[
+    {
+        "formatted_address": "100 Rock Chalk Ln, Lawrence, KS 66049, USA",
+        "team": "Algeria Basecamp",
+        "icon_flag": "🇩🇿",
+        "notes": "Jayhawk Soccer Complex",
+        "lat": 38.9809057,
+        "lng": -95.3295093
+    },
+    {
+        "formatted_address": "1913 Pinnacle Wy, Kansas City, KS 66111, USA",
+        "team": "Argentina Basecamp",
+        "icon_flag": "🇦🇷",
+        "notes": "Compass Minerals National Performance Center",
+        "lat": 39.12678890000001,
+        "lng": -94.8048835
+    },
+    {
+        "formatted_address": "6310 Lewis Rd, Kansas City, MO 64132, USA",
+        "team": "England Basecamp",
+        "icon_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "notes": "Swope Soccer Village",
+        "lat": 39.0127529,
+        "lng": -94.5207765
+    },
+    {
+        "formatted_address": "1 Teal Rising Wy, Riverside, MO 64150, USA",
+        "team": "The Netherlands Basecamp",
+        "icon_flag": "🇳🇱",
+        "notes": "KC Women's Soccer Training Complex",
+        "lat": 39.1653932,
+        "lng": -94.63658819999999
+    }
+]

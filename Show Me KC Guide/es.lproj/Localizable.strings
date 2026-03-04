@@ -1,0 +1,54 @@
+/*
+  Localizable.strings
+  Show Me KC Guide - Spanish (es)
+*/
+
+/* Common Actions */
+"close" = "Cerrar";
+"done" = "Listo";
+"cancel" = "Cancelar";
+
+/* Place Detail Sheet */
+"place_detail_title" = "Detalles";
+"hours_label" = "Horario";
+"notes_label" = "Notas";
+
+/* Itinerary Detail Sheet */
+"itinerary_detail_title" = "Acerca de";
+
+/* Map View */
+"map_title" = "Guía de Kansas City";
+
+/* Language Picker (for future landing screen) */
+"choose_language" = "Elegir idioma";
+"language_english_us" = "English (US)";
+"language_spanish" = "Español";
+"language_dutch" = "Nederlands";
+"language_german" = "Deutsch";
+"language_french" = "Français";
+"language_english_uk" = "English (UK)";
+"language_arabic" = "العربية";
+
+/* ListView */
+"listview_title" = "Explora Kansas City";
+"section_itineraries" = "Itinerarios";
+"section_landmarks_basecamps" = "Puntos de referencia y campamentos base";
+
+/* Menu Items */
+"menu_settings" = "Ajustes";
+"menu_help" = "Ayuda";
+"menu_about" = "Acerca de";
+
+/* Settings View */
+"settings_nav_title" = "Ajustes";
+"settings_language_picker" = "Idioma";
+"settings_app_language_header" = "Idioma de la aplicación";
+"settings_language_changed_message" = "Idioma actualizado. Los cambios aparecerán cuando cierre esta pantalla.";
+
+/* About View */
+"about_nav_title" = "Acerca de esta app";
+"about_tagline" = "Explora Kansas City como un local — en tu idioma.";
+"about_paragraph1" = "Curé y diseñé esta guía como residente local del área metropolitana de Kansas City.";
+"about_paragraph2" = "He pasado incontables horas explorando la ciudad, y quería compartir mis experiencias y conocimientos contigo.";
+"about_paragraph3" = "El resultado es una mezcla de joyas escondidas y atracciones imperdibles — todas fieles al espíritu de la ciudad.";
+"about_created_by" = "Creado por:";

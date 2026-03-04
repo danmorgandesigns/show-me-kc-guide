@@ -1,0 +1,166 @@
+{
+    "itinerary_name": "Southwest Boulevard",
+    "radius": 800,
+    "short_description": "KC's most flavorful corridor — craft beer, tacos, and coffee along Southwest Blvd.",
+    "long_description": "Southwest Boulevard is one of Kansas City's most underrated and delicious streets, a diverse strip that blends longstanding Hispanic restaurants and taquerias with craft beer institutions and specialty coffee roasters. \n\nStart your morning at The Roasterie Factory Cafe, where Kansas City's beloved local roaster serves exceptional coffee in their flagship cafe near the roasting facility. A short walk up the boulevard brings you to Boulevard Brewing Company, the iconic KC craft brewery with a welcoming taproom and tours. \n\nFor tacos, you have two great options: Tacos El Gallo for no-frills, authentic street-style tacos that locals swear by, and Margarita's Southwest Boulevard for a sit-down Mexican meal with strong margaritas and a lively atmosphere. \n\nKC Wheel rounds out the itinerary with wood-fired pizza and a curated bar in a relaxed neighborhood setting. Southwest Blvd rewards slow exploration — it's the kind of street where you find something new every visit.",
+    "locations": [
+        {
+            "formatted_address": "1204 W 27th St, Kansas City, MO 64108, USA",
+            "name": "The Roasterie Factory Cafe and Tour",
+            "place_id": "ChIJ7ZAS4zPwwIcRFx-b0WtrzE8",
+            "price_level": 2,
+            "rating": 4.6,
+            "types": [
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "store"
+            ],
+            "phone": "(816) 931-4000",
+            "website": "https://theroasterie.com/",
+            "opening_hours": [
+                "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Sunday: 8:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+            ],
+            "notes": "KC's iconic coffee roaster on Southwest Boulevard. Great spot to watch beans being roasted while you sip.",
+            "tags": ["coffee", "tours"],
+            "include": true,
+            "icon_category": "tour",
+            "photo": "roasterie",
+            "caption": "'Betty', a Douglas DC-3 mascot of The Roasterie",
+            "lat": 39.0788572,
+            "lng": -94.5986035
+        },
+        {
+            "formatted_address": "2501 Southwest Blvd, Kansas City, MO 64108, USA",
+            "name": "Boulevard Brewing Company and Tour",
+            "place_id": "ChIJwzrz9zbwwIcRIZWNjm1FPnY",
+            "price_level": null,
+            "rating": 4.8,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest"
+            ],
+            "phone": "(816) 474-7095",
+            "website": "http://boulevard.com/",
+            "opening_hours": [
+                "Monday: 12:00\u2009\u2013\u20098:00\u202fPM",
+                "Tuesday: 12:00\u2009\u2013\u20098:00\u202fPM",
+                "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+            ],
+            "notes": "Kansas City's flagship craft brewery with a taproom, tours, and an excellent rotating tap selection. The anchor of the Southwest Blvd corridor.",
+            "tags": ["craft beer", "tours"],
+            "include": true,
+            "icon_category": "tour",
+            "lat": 39.082097,
+            "lng": -94.596736
+        },
+        {
+            "formatted_address": "2829 Southwest Blvd, Kansas City, MO 64108, USA",
+            "name": "Margarita's Southwest Boulevard",
+            "place_id": "ChIJh9c75DLwwIcRppcCCfxlKFs",
+            "price_level": 1,
+            "rating": 4.4,
+            "types": [
+                "establishment",
+                "food",
+                "meal_takeaway",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 931-4849",
+            "website": "https://www.margaritasamigos.com/margaritas-boulevard",
+            "opening_hours": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "notes": "A KC institution for Mexican comfort food — big portions, strong margaritas, and a loyal neighborhood following.",
+            "tags": ["mexican", "tex-mex", "cocktails"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 39.0762563,
+            "lng": -94.6020092
+        },
+        {
+            "formatted_address": "2485 Jefferson St, Kansas City, MO 64108, USA",
+            "name": "KC Wheel",
+            "place_id": "ChIJNY_GZm3xwIcRZ2oWnREDZI4",
+            "price_level": null,
+            "rating": 4.5,
+            "types": [
+                "bar",
+                "establishment",
+                "food",
+                "meal_takeaway",
+                "point_of_interest",
+                "restaurant",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 608-6918",
+            "website": "https://www.kcwheel.com/",
+            "opening_hours": [
+                "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "notes": "Observation Ferris wheel near the West Bottoms with city views, mini golf, a bar, and snacks. A fun, unexpected stop.",
+            "tags": ["outdoors", "cocktails"],
+            "include": true,
+            "icon_category": "amusement",
+            "photo": "kcwheel",
+            "caption": "The KC Wheel",
+            "lat": 39.08238130000001,
+            "lng": -94.59254469999999
+        },
+        {
+            "formatted_address": "806 Southwest Blvd, Kansas City, MO 64108, USA",
+            "name": "Tacos El Gallo",
+            "place_id": "ChIJ_-9f4jfwwIcR5vkqB3XEIko",
+            "price_level": 1,
+            "rating": 4.5,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 842-0160",
+            "website": "https://tacoselgallo.com/",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+            ],
+            "notes": "Beloved taqueria serving authentic street-style tacos and Mexican plates at budget-friendly prices. A true Southwest Blvd gem.",
+            "tags": ["tacos", "mexican"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 39.0848241,
+            "lng": -94.59420899999999
+        }
+    ]
+}

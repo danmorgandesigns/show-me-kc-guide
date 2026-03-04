@@ -1,0 +1,29 @@
+[
+    {
+        "formatted_address": "1 Arrowhead Dr, Kansas City, MO 64129",
+        "name": "Arrowhead Stadium",
+        "website": "https://www.chiefs.com/stadium/",            
+        "notes": "",
+        "icon_name": "soccerball",
+        "lat": 39.0492812907176,
+        "lng": -94.484014102663
+    },
+    {
+        "formatted_address": "2 Memorial Dr, Kansas City, MO 64108",
+        "name": "Fan Fest Site",
+        "website": "https://kansascityfwc26.com/fan-fest/",
+        "notes": "",
+        "icon_name": "party.popper.fill",
+        "lat": 39.080850902010205,
+        "lng": -94.58606381961815
+    },
+    {
+        "formatted_address": "1 Kansas City Blvd, Kansas City, MO 64153",
+        "name": "KCI Airport",
+        "website": "https://flykc.com/",            
+        "notes": "",
+        "icon_name": "airplane",
+        "lat": 39.307253631151966,
+        "lng": -94.70942362553706
+    }
+]                

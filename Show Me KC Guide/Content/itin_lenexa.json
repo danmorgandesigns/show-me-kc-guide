@@ -1,0 +1,150 @@
+{
+    "itinerary_name": "Lenexa City Center & Shawnee Mission Park",
+    "radius": 2000,
+    "short_description": "Trails, local shopping, craft beer, and farm-to-table dining on the western edge of the metro.",
+    "long_description": "The Lenexa City Center area and adjacent Shawnee Mission Park offer one of the KC metro's most pleasant combinations of outdoor recreation and neighborhood dining. Start the day at Shawnee Mission Park, a sprawling Johnson County gem with miles of trails, a large lake, and a marina where you can rent kayaks, paddleboats, and fishing gear. \n\nAfter getting outside, the Lenexa City Center development just to the south is a walkable mixed-use district worth exploring. Lenexa Public Market is an excellent all-day food hall and gathering space, and the Made in KC Marketplace next door is the go-to spot for locally made goods, gifts, and a solid cup of coffee. \n\nFor a more upscale dinner, Silo Modern Farmhouse delivers a refined farm-to-table experience in a handsome setting just down the road.",
+    "locations": [
+        {
+            "formatted_address": "7900 Renner Rd, Shawnee, KS 66219, USA",
+            "name": "Shawnee Mission Park Marina",
+            "place_id": "ChIJp6zlluWTwIcRCHzkjdZEOS8",
+            "price_level": null,
+            "rating": 4.6,
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ],
+            "phone": "(913) 686-6030 ext. 20",
+            "website": "https://www.jcprd.com/1472/Shawnee-Mission-Park-Marina",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+            ],
+            "notes": "Start the morning here. Kayak and canoe rentals, swimming beach (summer), fishing, scenic lake walks. 1,600-acre park. Dog friendly.",
+            "tags": ["kayaking", "outdoors", "nature", "family"],
+            "include": true,
+            "icon_category": "park",
+            "lat": 38.98637550000001,
+            "lng": -94.8012794
+        },
+        {
+            "formatted_address": "North Short Trailhead, 7900 Renner Rd, Shawnee, KS 66219, USA",
+            "name": "Shawnee Mission Park trail head",
+            "place_id": "ChIJ03dIVu-TwIcRKwMtmnkJBaI",
+            "price_level": null,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "park",
+                "parking",
+                "point_of_interest"
+            ],
+            "phone": "(913) 438-7275",
+            "website": "http://www.jcprd.com/",
+            "opening_hours": null,
+            "notes": "Mountain bike trails and hiking. Connect to the Gary Haller Trail for longer rides. Pump track recently rebuilt.",
+            "tags": ["hiking", "biking", "outdoors", "nature"],
+            "include": true,
+            "icon_category": "park",
+            "lat": 38.9856961,
+            "lng": -94.7813355
+        },
+        {
+            "formatted_address": "8750 Penrose Ln, Lenexa, KS 66219, USA",
+            "name": "Lenexa Public Market",
+            "place_id": "ChIJIbehyHaUwIcRnItlhWgI7os",
+            "price_level": 2,
+            "rating": 4.6,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(913) 477-7516",
+            "website": "http://www.lenexapublicmarket.com/",
+            "opening_hours": [
+                "Monday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+            ],
+            "notes": "Indoor food hall in City Center with Thai noodles, BBQ, Turkish, pizza, coffee and more. Also has a small art gallery inside. Great post-park lunch option.",
+            "tags": ["food hall", "coffee"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 38.9699268,
+            "lng": -94.7837294
+        },
+        {
+            "formatted_address": "8703 Penrose Ln, Lenexa, KS 66219, USA",
+            "name": "Made in KC Marketplace - Lenexa",
+            "place_id": "ChIJA9RjPyWVwIcR0S35-qRATvY",
+            "price_level": null,
+            "rating": 4.7,
+            "types": [
+                "bar",
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "store"
+            ],
+            "phone": "(913) 944-6298",
+            "website": "http://www.madeinkc.co/",
+            "opening_hours": [
+                "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+            ],
+            "notes": "KC-made goods, gifts, art prints, snacks, coffee, shuffleboard. Great for KC souvenirs and local art. Inside City Center.",
+            "tags": ["local goods", "coffee", "retro"],
+            "include": true,
+            "icon_category": "shop",
+            "lat": 38.9697608,
+            "lng": -94.783226
+        },
+        {
+            "formatted_address": "17501 W 87th St, Lenexa, KS 66219, USA",
+            "name": "Silo Modern Farmhouse",
+            "place_id": "ChIJGVBXrMWVwIcR7psKSmLhSEQ",
+            "price_level": 3,
+            "rating": 4.5,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(913) 278-0910",
+            "website": "https://www.silocanyonfarms.com/?utm_source=Google&utm_medium=BusinessListing",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "notes": "Upscale farmhouse-chic dinner restaurant near Lenexa. Beautiful interior, shrimp and grits, silo half chicken, knockout cocktails. Reservations recommended.",
+            "tags": ["farm-to-table", "upscale", "cocktails"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 38.9691436,
+            "lng": -94.7910646
+        }
+    ]
+}

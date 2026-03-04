@@ -1,0 +1,161 @@
+{
+    "itinerary_name": "Plaza Shopping & Arts District",
+    "radius": 1000,
+    "short_description": "Shopping, culture, and world-class art in KC's most iconic neighborhood.",
+    "long_description": "The Country Club Plaza and surrounding Midtown arts district offer one of Kansas City's most walkable and rewarding urban experiences — a full day of world-class art, green space, and great dining all within a few blocks of each other. \n\nStart at the Nelson-Atkins Museum of Art, one of the country's premier art institutions with a permanent collection spanning 5,000 years and a sculpture garden that's worth the visit on its own. Plan to arrive hungry — Rozelle Court, the museum's elegant café set inside a stunning atrium, makes for a memorable lunch before or after you explore the galleries. Free admission means there's no reason to rush. \n\nFrom there, make your way to the Kemper Museum of Contemporary Art just a few blocks away, where rotating exhibitions and a strong permanent collection of modern and contemporary works offer a sharp contrast to the Nelson's breadth. Also free. \n\nNext, take a quiet detour through Kauffman Legacy Park, a beautifully landscaped reflection space on the Kauffman Foundation campus — a good reset between museum stops. Nature lovers should also pencil in the Anita B. Gorman Conservation Discovery Center, a free Missouri Department of Conservation facility with native plant gardens, aquariums, and wildlife exhibits. \n\nCap the day at the Country Club Plaza — KC's iconic Spanish-inspired outdoor district with fountains, distinctive architecture, and some of the city's best dining and shopping. It's especially beautiful in the evening.",
+    "locations": [
+        {
+            "formatted_address": "4706 Broadway Blvd, Kansas City, MO 64112, USA",
+            "name": "Country Club Plaza",
+            "place_id": "ChIJr4r_377vwIcRmXCBhXNEPas",
+            "price_level": null,
+            "rating": 4.5,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant",
+                "shopping_mall"
+            ],
+            "phone": "(816) 753-0100",
+            "website": "https://countryclubplaza.com/?utm_source=GoogleMyBusiness&utm_medium=Organic&utm_campaign=GMB",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+            ],
+            "notes": "KC's iconic Spanish-inspired outdoor shopping and dining district, beloved for its architecture, fountains, and holiday lights.",
+            "tags": ["walkable", "upscale", "shopping"],
+            "include": true,
+            "icon_category": "shop",
+            "lat": 39.0419692,
+            "lng": -94.5926089
+        },
+        {
+            "formatted_address": "4525 Oak St, Kansas City, MO 64111, USA",
+            "name": "The Nelson-Atkins Museum of Art",
+            "place_id": "ChIJRSCf3ervwIcRxcTG-WmRVis",
+            "price_level": null,
+            "rating": 4.8,
+            "types": [
+                "art_gallery",
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 751-1278",
+            "website": "https://www.nelson-atkins.org/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-listing",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Tuesday: Closed",
+                "Wednesday: Closed",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "One of the country's premier art museums with a vast permanent collection and stunning sculpture garden. Free admission. ",
+            "tags": ["art", "family", "free", "museum"],
+            "include": true,
+            "icon_category": "museum",
+            "photo": "shuttlecock",
+            "caption": "The largest shuttlecock in the world at the Nelson.",
+            "lat": 39.0449506,
+            "lng": -94.58092839999999
+        },
+        {
+            "formatted_address": "4420 Warwick Blvd, Kansas City, MO 64111, USA",
+            "name": "Kemper Museum of Contemporary Art",
+            "place_id": "ChIJjz4brcHvwIcRGPdob2HHTD0",
+            "price_level": null,
+            "rating": 4.6,
+            "types": [
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 753-5784",
+            "website": "http://www.kemperart.org/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+            ],
+            "notes": "Free contemporary art museum just off the Plaza with rotating exhibitions and a highly regarded permanent collection.",
+            "tags": ["art", "family", "free", "museum"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.04643,
+            "lng": -94.5851292
+        },
+        {
+            "formatted_address": "E 48 St, Kansas City, MO 64110, USA",
+            "name": "Kauffman Legacy Park",
+            "place_id": "ChIJZUTEzpPvwIcRu0qvWgC_OK4",
+            "price_level": null,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": null,
+            "website": "https://www.kauffman.org/our-campus/legacy-park/",
+            "opening_hours": [
+                "Monday: Open 24 hours",
+                "Tuesday: Open 24 hours",
+                "Wednesday: Open 24 hours",
+                "Thursday: Open 24 hours",
+                "Friday: Open 24 hours",
+                "Saturday: Open 24 hours",
+                "Sunday: Open 24 hours"
+            ],
+            "notes": "Beautifully landscaped park and reflection space on the Kauffman Foundation campus near the Plaza.",
+            "tags": ["nature", "outdoors", "free", "family"],
+            "include": true,
+            "icon_category": "park",
+            "lat": 39.0394807,
+            "lng": -94.5759843
+        },
+        {
+            "formatted_address": "4750 Troost Ave, Kansas City, MO 64110, USA",
+            "name": "Anita B. Gorman Conservation Discovery Center",
+            "place_id": "ChIJAzHIbpLvwIcRWadD84Xu8Oo",
+            "price_level": null,
+            "rating": 4.9,
+            "types": [
+                "establishment",
+                "local_government_office",
+                "point_of_interest"
+            ],
+            "phone": "(816) 759-7300",
+            "website": "https://mdc.mo.gov/discoverycenter",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Sunday: Closed"
+            ],
+            "notes": "Missouri Department of Conservation discovery center with native plant gardens, wildlife exhibits, and free nature programming.",
+            "tags": ["nature", "family", "free", "outdoors"],
+            "include": true,
+            "icon_category": "family",
+            "lat": 39.040449,
+            "lng": -94.57436899999999
+        }
+    ]
+}

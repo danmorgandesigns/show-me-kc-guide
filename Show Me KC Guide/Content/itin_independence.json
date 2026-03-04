@@ -1,0 +1,189 @@
+{
+    "itinerary_name": "Historic Independence, MO",
+    "radius": 1500,
+    "short_description": "Presidential history, frontier heritage, and charming dining in Harry Truman's hometown.",
+    "long_description": "Independence, Missouri punches well above its weight as a historic destination. It was the hometown of Harry S. Truman, the jumping-off point for the Oregon, California, and Santa Fe Trails, and home to a remarkably well-preserved 19th-century town square. \n\nBegin at the Harry S. Truman Presidential Library & Museum, one of the country's finest presidential libraries, where Truman and Bess are both buried on the grounds. A short drive south leads to the National Frontier Trails Museum, which tells the compelling story of the hundreds of thousands of pioneers who launched their westward journeys from this very spot. \n\nHistory buffs will also want to visit the Bingham-Waggoner Estate, the restored home of Missouri painter George Caleb Bingham, filled with period furnishings and Civil War-era stories. When hunger strikes, the Independence square offers two excellent options: Ophelia's Restaurant & Inn for a more upscale sit-down meal, and Café Verona for a relaxed lunch or casual dinner in a charming setting.",
+    "locations": [
+        {
+            "formatted_address": "500 W US Hwy 24, Independence, MO 64050, USA",
+            "name": "Harry S. Truman Presidential Library & Museum",
+            "place_id": "ChIJI1ZWog39wIcRSgAqyZnEs5w",
+            "price_level": null,
+            "rating": 4.8,
+            "types": [
+                "establishment",
+                "library",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 268-8200",
+            "website": "http://www.trumanlibrary.gov/",
+            "opening_hours": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: Closed"
+            ],
+            "notes": "Presidential library and museum dedicated to the 33rd president, a Missouri native. Immersive exhibits on WWII, the Cold War, and Truman's legacy.",
+            "tags": ["history", "museum"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.1034674,
+            "lng": -94.4208008
+        },
+        {
+            "formatted_address": "416 W Maple Ave, Independence, MO 64050, USA",
+            "name": "National Frontier Trails Museum",
+            "place_id": "ChIJt000ND_9wIcRnWlAaU_QtM0",
+            "price_level": null,
+            "rating": 4.5,
+            "types": [
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 325-7575",
+            "website": "http://www.frontiertrailsmuseum.org/",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Sunday: Closed"
+            ],
+            "notes": "Engaging history museum chronicling the great westward migration trails — Oregon, California, and Santa Fe — with artifacts and first-person accounts.",
+            "tags": ["history", "museum"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.0933012,
+            "lng": -94.4208615
+        },
+        {
+            "formatted_address": "Bingham-Waggoner Home, 313 W Pacific Ave, Independence, MO 64050, USA",
+            "name": "Bingham-Waggoner Estate",
+            "place_id": "ChIJbUcSuTj9wIcRrzvwEE7XMmw",
+            "price_level": null,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ],
+            "phone": "(816) 461-3491",
+            "website": "http://www.bwestate.net/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: Closed",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Sunday: 1:00\u2009\u2013\u20094:00\u202fPM"
+            ],
+            "notes": "Historic 19th-century estate once home to Missouri artist George Caleb Bingham, with preserved period rooms and guided tours.",
+            "tags": ["history", "museum", "art"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.0855987,
+            "lng": -94.4192686
+        },
+        {
+            "formatted_address": "201 N Main St, Independence, MO 64050, USA",
+            "name": "Ophelia's Restaurant & Inn",
+            "place_id": "ChIJcQ7aZmr9wIcRd0oFMoVWq3s",
+            "price_level": 2,
+            "rating": 4.5,
+            "types": [
+                "establishment",
+                "food",
+                "lodging",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 461-4525",
+            "website": "http://www.opheliasrestaurant.com/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 10:30\u202fAM\u2009\u2013\u20092:00\u202fPM"
+            ],
+            "notes": "Upscale farm-to-table dining in a Victorian inn, known for creative seasonal menus and a warm, elegant atmosphere.",
+            "tags": ["farm-to-table", "upscale", "brunch"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 39.092914,
+            "lng": -94.415256
+        },
+        {
+            "formatted_address": "206 W Lexington Ave, Independence, MO 64050, USA",
+            "name": "Caf\u00e9 Verona",
+            "place_id": "ChIJbRdrpWr9wIcRn8c6oSghsgg",
+            "price_level": 2,
+            "rating": 4.4,
+            "types": [
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 833-0044",
+            "website": "http://www.cafeveronarestaurant.com/",
+            "opening_hours": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: Closed"
+            ],
+            "notes": "Reliable Italian-American neighborhood staple with pastas, pizzas, and a comfortable dining room.",
+            "tags": ["italian"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 39.0922796,
+            "lng": -94.41747029999999
+        },
+        {
+            "formatted_address": "217 N Main St, Independence, MO 64050, USA",
+            "name": "1859 Jail Museum",
+        "place_id": "ChIJITfxW2r9wIcRcrk9mh5z08k",
+        "price_level": null,
+        "rating": 4.6,
+        "types": [
+            "establishment",
+            "museum",
+            "point_of_interest",
+            "tourist_attraction"
+        ],
+        "phone": "(816) 252-1892",
+        "website": "http://www.jchs.org/",
+        "opening_hours": [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+            "Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+        ],
+        "notes": "Historic county jail where Frank James was once held, with preserved cells, a one-room schoolhouse, and self-guided tours. Only $6 admission.",
+        "tags": ["history", "museum"],
+        "include": true,
+        "icon_category": "museum",
+        "lat": 39.093417,
+        "lng": -94.41551369999999
+        }        
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "itinerary_name": "18th & Vine Jazz District",
+    "radius": 600,
+    "short_description": "BBQ, bebop, and baseball history in KC's legendary jazz corridor.",
+    "long_description": "The 18th & Vine Historic Jazz District is the beating heart of Kansas City's African American cultural heritage. This compact, walkable neighborhood gave birth to the Kansas City jazz sound and was home to some of the greatest musicians in American history. \n\nBegin with a pilgrimage to Arthur Bryant's for legendary slow-smoked barbecue, then dive into the dual museums at the corner of 18th and Vine — the Negro Leagues Baseball Museum and the American Jazz Museum share a building and tell two of America's most important and overlooked stories. \n\nCap the evening at The Blue Room, one of the country's great surviving jazz clubs, where live music fills the air just as it did in the district's golden age.",
+    "locations": [
+        {
+            "formatted_address": "1727 Brooklyn Ave, Kansas City, MO 64127, USA",
+            "name": "Arthur Bryant's Barbeque",
+            "place_id": "ChIJqYAqX5n6wIcR3g1EmKf9Il4",
+            "price_level": 2,
+            "rating": 4.2,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 231-1123",
+            "website": "http://arthurbryantsbbq.com/",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+            ],
+            "notes": "A KC legend since 1908, serving no-frills, slow-smoked BBQ with the famous tangy sauce. A pilgrimage stop for any serious BBQ fan.",
+            "tags": ["bbq"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 39.0914828,
+            "lng": -94.55617409999999
+        },
+        {
+            "formatted_address": "1600 E 18th St, Kansas City, MO 64108, USA",
+            "name": "The Blue Room",
+            "place_id": "ChIJ2YLPAHbwwIcRSqV39YuEmA4",
+            "price_level": 2,
+            "rating": 4.7,
+            "types": [
+                "bar",
+                "establishment",
+                "night_club",
+                "point_of_interest"
+            ],
+            "phone": "(816) 474-8463",
+            "website": "https://www.americanjazzmuseum.org/blue-room",
+            "opening_hours": [
+                "Monday: 7:00\u2009\u2013\u200911:00\u202fPM",
+                "Tuesday: Closed",
+                "Wednesday: Closed",
+                "Thursday: Closed",
+                "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+                "Saturday: 7:00\u2009\u2013\u200911:00\u202fPM",
+                "Sunday: Closed"
+            ],
+            "notes": "Intimate jazz club inside the American Jazz Museum with live performances and a full bar. One of KC's best live music experiences.",
+            "tags": ["jazz", "live music", "cocktails"],
+            "include": true,
+            "icon_category": "music",
+            "lat": 39.0913741,
+            "lng": -94.56306599999999
+        },
+        {
+            "formatted_address": "1616 E 18th St, Kansas City, MO 64108, USA",
+            "name": "Negro Leagues Baseball Museum",
+            "place_id": "ChIJ2YLPAHbwwIcRKT9dEBzxTKU",
+            "price_level": null,
+            "rating": 4.8,
+            "types": [
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 221-1920",
+            "website": "https://nlbm.com/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "Outstanding museum honoring the history and legacy of the Negro Leagues, widely considered one of the best sports museums in the country. ",
+            "tags": ["history", "museum"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.0913923,
+            "lng": -94.5626542
+        },
+        {
+            "formatted_address": "1616 E 18th St, Kansas City, MO 64108, USA",
+            "name": "American Jazz Museum",
+            "place_id": "ChIJ5V43AXbwwIcRfKK33CDOqKg",
+            "price_level": null,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "store",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 474-8463",
+            "website": "http://americanjazzmuseum.org/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "The only museum in the US dedicated solely to jazz, celebrating KC's deep roots in the genre with interactive exhibits and live performances.",
+            "tags": ["jazz", "history", "museum"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.0914549,
+            "lng": -94.5629526
+        },
+        {
+            "formatted_address": "1700 E 18th St, Kansas City, MO 64108, USA",
+            "name": "The Kansas City Juke House",
+            "place_id": "ChIJee2gB576wIcRnKzMij_QQ1s",
+            "price_level": 1,
+            "rating": 4.2,
+            "types": [
+                "bar",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 472-0013",
+            "website": "http://thekcjukehouse.com/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: 5:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+                "Thursday: Closed",
+                "Friday: 7:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+                "Saturday: 7:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+                "Sunday: 7:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+            ],
+            "notes": "Blues bar and grill near the 18th & Vine district with live music, a laid-back vibe, and bar food.",
+            "tags": ["blues", "live music", "late night"],
+            "include": true,
+            "icon_category": "music",
+            "lat": 39.0913305,
+            "lng": -94.56189800000001
+        }
+    ]
+}

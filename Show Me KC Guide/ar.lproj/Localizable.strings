@@ -1,0 +1,54 @@
+/*
+  Localizable.strings
+  Show Me KC Guide - Arabic (العربية)
+*/
+
+/* Common Actions */
+"close" = "إغلاق";
+"done" = "تم";
+"cancel" = "إلغاء";
+
+/* Place Detail Sheet */
+"place_detail_title" = "التفاصيل";
+"hours_label" = "ساعات العمل";
+"notes_label" = "ملاحظات";
+
+/* Itinerary Detail Sheet */
+"itinerary_detail_title" = "حول";
+
+/* Map View */
+"map_title" = "دليل مدينة كانساس سيتي";
+
+/* Language Picker (for future landing screen) */
+"choose_language" = "اختر اللغة";
+"language_english_us" = "English (US)";
+"language_spanish" = "Español";
+"language_dutch" = "Nederlands";
+"language_german" = "Deutsch";
+"language_french" = "Français";
+"language_english_uk" = "English (UK)";
+"language_arabic" = "العربية";
+
+/* ListView */
+"listview_title" = "استكشف كانساس سيتي";
+"section_itineraries" = "خطط الرحلات";
+"section_landmarks_basecamps" = "المعالم والمخيمات الأساسية";
+
+/* Menu Items */
+"menu_settings" = "الإعدادات";
+"menu_help" = "المساعدة";
+"menu_about" = "حول";
+
+/* Settings View */
+"settings_nav_title" = "الإعدادات";
+"settings_language_picker" = "اللغة";
+"settings_app_language_header" = "لغة التطبيق";
+"settings_language_changed_message" = "تم تحديث اللغة. ستظهر التغييرات عند إغلاق هذه الشاشة.";
+
+/* About View */
+"about_nav_title" = "حول هذا التطبيق";
+"about_tagline" = "استكشف كانساس سيتي كالسكان المحليين — بلغتك.";
+"about_paragraph1" = "لقد قمت بتنظيم وتصميم هذا الدليل بصفتي مقيمًا محليًا في منطقة مترو كانساس سيتي.";
+"about_paragraph2" = "لقد أمضيت ساعات لا تُحصى في استكشاف المدينة، وأردت مشاركة تجاربي ومعرفتي معك.";
+"about_paragraph3" = "النتيجة هي مزيج من الجواهر الخفية والمعالم التي لا يمكن تفويتها — جميعها تعكس روح المدينة.";
+"about_created_by" = "تم الإنشاء بواسطة:";

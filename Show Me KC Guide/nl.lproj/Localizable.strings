@@ -1,0 +1,54 @@
+/*
+  Localizable.strings
+  Show Me KC Guide - Dutch (Nederlands)
+*/
+
+/* Common Actions */
+"close" = "Sluiten";
+"done" = "Klaar";
+"cancel" = "Annuleren";
+
+/* Place Detail Sheet */
+"place_detail_title" = "Details";
+"hours_label" = "Openingstijden";
+"notes_label" = "Notities";
+
+/* Itinerary Detail Sheet */
+"itinerary_detail_title" = "Over";
+
+/* Map View */
+"map_title" = "Kansas City Gids";
+
+/* Language Picker (for future landing screen) */
+"choose_language" = "Kies taal";
+"language_english_us" = "English (US)";
+"language_spanish" = "Español";
+"language_dutch" = "Nederlands";
+"language_german" = "Deutsch";
+"language_french" = "Français";
+"language_english_uk" = "English (UK)";
+"language_arabic" = "العربية";
+
+/* ListView */
+"listview_title" = "Ontdek Kansas City";
+"section_itineraries" = "Reisroutes";
+"section_landmarks_basecamps" = "Bezienswaardigheden en basiskampen";
+
+/* Menu Items */
+"menu_settings" = "Instellingen";
+"menu_help" = "Help";
+"menu_about" = "Over";
+
+/* Settings View */
+"settings_nav_title" = "Instellingen";
+"settings_language_picker" = "Taal";
+"settings_app_language_header" = "App-taal";
+"settings_language_changed_message" = "Taal bijgewerkt. Wijzigingen verschijnen wanneer u dit scherm sluit.";
+
+/* About View */
+"about_nav_title" = "Over deze app";
+"about_tagline" = "Ontdek Kansas City als een local — in jouw taal.";
+"about_paragraph1" = "Ik heb deze gids samengesteld en ontworpen als inwoner van de Kansas City Metro.";
+"about_paragraph2" = "Ik heb talloze uren besteed aan het verkennen van de stad en wilde mijn ervaringen en kennis met u delen.";
+"about_paragraph3" = "Het resultaat is een mix van verborgen pareltjes en toeristische hoogtepunten — allemaal trouw aan de geest van de stad.";
+"about_created_by" = "Gemaakt door:";

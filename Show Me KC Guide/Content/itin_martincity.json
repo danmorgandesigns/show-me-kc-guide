@@ -1,0 +1,130 @@
+{
+    "itinerary_name": "Martin City",
+    "radius": 400,
+    "short_description": "KC's southside dining destination — legendary BBQ, craft beer, and Tex-Mex all within a few blocks.",
+    "long_description": "Martin City is a small but mighty dining corridor tucked into the southern edge of Kansas City, Missouri, and it punches well above its weight. Jack Stack Barbecue is the anchor — widely regarded as one of the finest BBQ restaurants in a city famous for the stuff, with a menu that goes well beyond brisket and ribs to include smoked lamb, cheesy corn bake, and some of the best burnt ends you'll find anywhere. \n\nJess and Jim's Steak House has been a KC institution since 1938, serving hand-cut steaks in a classic, no-frills setting that feels unchanged by time. Right around the corner, Martin City Brewing Co. is the flagship location of the local craft brewery, pairing wood-fired pizzas with an excellent rotating tap list in a comfortable neighborhood setting. \n\nMargarita's Martin City rounds out the options with a reliable lineup of Mexican favorites and strong margaritas — a solid choice for a casual lunch or a pre-brewery warm-up. \n\nMartin City also makes a natural dinner destination after a day at the Overland Park Arboretum or Deanna Rose Farmstead — it's a short drive north and a satisfying way to end the afternoon.",
+    "locations": [
+        {
+            "formatted_address": "410 E 135th St, Kansas City, MO 64145, USA",
+            "name": "Martin City Brewing Co. Pizza & Taproom - 135th Street",
+            "place_id": "ChIJs-flb5HCwIcRI34MgMoHU24",
+            "price_level": 2,
+            "rating": 4.8,
+            "types": [
+                "bar",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 268-2222",
+            "website": "http://martincitybrewingcompany.com/",
+            "opening_hours": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "notes": "Neighborhood brewpub known for wood-fired pizzas, craft beer, and a lively sports bar atmosphere. A Martin City anchor with a loyal local following.",
+            "tags": ["craft beer", "pizza"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 38.8827588,
+            "lng": -94.59013619999999
+        },
+        {
+            "formatted_address": "13441 Holmes Rd, Kansas City, MO 64145, USA",
+            "name": "Jack Stack Barbecue - Martin City",
+            "place_id": "ChIJ8_JZmpbCwIcRqg1YhSphwfU",
+            "price_level": 2,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 942-9141",
+            "website": "https://www.jackstackbbq.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+            "opening_hours": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM"
+            ],
+            "notes": "One of KC's most celebrated BBQ institutions, known for pit-smoked meats, cheesy corn bake, and a full-service dining experience that goes well beyond the typical BBQ joint.",
+            "tags": ["bbq"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 38.8827758,
+            "lng": -94.5862708
+        },
+    {
+        "formatted_address": "517 E 135th St, Kansas City, MO 64145, USA",
+        "name": "Jess and Jim's Steak House",
+        "place_id": "ChIJlxL8W5HCwIcR3bej9lr0AXw",
+        "price_level": 2,
+        "rating": 4.3,
+        "types": [
+            "establishment",
+            "food",
+            "point_of_interest",
+            "restaurant"
+        ],
+        "phone": "(816) 941-9499",
+        "website": "https://www.jessandjims.com/location/jess-and-jim-steakhouse/",
+        "opening_hours": [
+            "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+            "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+            "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+            "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+            "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+            "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+            "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+        ],
+        "notes": "A Kansas City steakhouse legend since 1938, serving hand-cut steaks in a classic, no-frills setting. Consistently ranked among the best steakhouses in the metro.",
+        "tags": ["steak"],
+        "include": true,
+        "icon_category": "restaurant",
+        "lat": 38.8823052,
+        "lng": -94.589192
+    },        
+        {
+            "formatted_address": "13401 Holmes Rd, Kansas City, MO 64145, USA",
+            "name": "Margarita's Martin City",
+            "place_id": "ChIJJVXb5JbCwIcRxalpYUUYJH8",
+            "price_level": 1,
+            "rating": 4.2,
+            "types": [
+                "establishment",
+                "food",
+                "meal_takeaway",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 326-7421",
+            "website": "https://www.margaritasamigos.com/",
+            "opening_hours": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "notes": "Festive Mexican restaurant and sister location to the Southwest Blvd original, with familiar Tex-Mex staples, strong margaritas, and a reliable neighborhood crowd.",
+            "tags": ["mexican", "tacos", "tex-mex"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 38.8840111,
+            "lng": -94.5860648
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "itinerary_name": "River Market",
+    "radius": 400,
+    "short_description": "Steamboats, antiques, craft beer, and some of KC's best casual eats along the Missouri River.",
+    "long_description": "Kansas City's River Market neighborhood sits at the original heart of the city, where settlers and traders first arrived along the Missouri River in the 19th century. Today it's one of KC's most walkable and eclectic neighborhoods, blending history, food, and nightlife into a compact area just north of downtown. Start the day with breakfast at The Farmhouse, a farm-to-table spot beloved for its weekend brunch, or grab a bite at Habashi House, a River Market institution known for its Mediterranean and Middle Eastern fare. The Arabia Steamboat Museum is a must-see — it houses the remarkably preserved cargo of a steamboat that sank in the Missouri in 1856, recovered entirely intact over a century later. Antique hunters will lose track of time at River Market Antiques, a massive multi-dealer mall full of vintage finds. For dinner, Enzo offers Italian-inspired plates in a relaxed setting. Cap the evening with craft beers at Strange Days Brewing Co. or River Bluff Brewing, two excellent taprooms that anchor the neighborhood's growing beer scene.",
+    "locations": [
+        {
+            "formatted_address": "316 Oak St, Kansas City, MO 64106, USA",
+            "name": "Strange Days Brewing Co.",
+            "place_id": "ChIJ26eToovwwIcRJO3KI61Zkno",
+            "price_level": null,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest"
+            ],
+            "phone": "(816) 469-5321",
+            "website": "http://strangedaysbrewing.com/",
+            "opening_hours": [
+                "Monday: 4:00\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: Closed",
+                "Wednesday: 4:00\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 2:00\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20097:00\u202fPM"
+            ],
+            "notes": "Neighborhood craft brewery in the East Bottoms with a welcoming taproom, solid rotating tap list, and a Sunday brunch that packs the place.",
+            "tags": ["craft beer", "brunch"],
+            "include": true,
+            "icon_category": "beer",
+            "lat": 39.1101486,
+            "lng": -94.5798432
+        },
+        {
+            "formatted_address": "201 Main St Ste 101, Kansas City, MO 64105, USA",
+            "name": "River Bluff Brewing at River Market",
+            "place_id": "ChIJHf2YBEPxwIcRHcYzFD6IMBQ",
+            "price_level": null,
+            "rating": 4.8,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest"
+            ],
+            "phone": "(816) 255-2360",
+            "website": "http://riverbluffbrew.com/",
+            "opening_hours": [
+                "Monday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+            ],
+            "notes": "Small-batch brewery in the West Bottoms with an intimate taproom, excellent IPAs, and a tight-knit community vibe.",
+            "tags": ["craft beer"],
+            "include": true,
+            "icon_category": "beer",
+            "lat": 39.1107025,
+            "lng": -94.5831451
+        },
+        {
+            "formatted_address": "400 Grand Blvd, Kansas City, MO 64106, USA",
+            "name": "Arabia Steamboat Museum",
+            "place_id": "ChIJkQe4HYvwwIcRFBepaRT_-aA",
+            "price_level": null,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 471-1856",
+            "website": "https://www.1856.com/",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "Remarkable River Market museum built around the 1856 wreck of a Missouri River steamboat and the trove of frontier cargo recovered from it. One of KC's best-kept secrets.",
+            "tags": ["history", "museum", "family"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.1094732,
+            "lng": -94.5813811
+        },
+        {
+            "formatted_address": "115 W 5th St, Kansas City, MO 64105, USA",
+            "name": "River Market Antiques",
+            "place_id": "ChIJ06LgEPXwwIcRR_qaDPIrA6M",
+            "price_level": null,
+            "rating": 4.5,
+            "types": [
+                "establishment",
+                "home_goods_store",
+                "point_of_interest",
+                "store"
+            ],
+            "phone": "(816) 221-0220",
+            "website": "http://www.rivermarketantiquemall.com/",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+            ],
+            "notes": "Multi-vendor antique mall in the River Market district with a broad mix of furniture, collectibles, and vintage goods.",
+            "tags": ["antiques"],
+            "include": true,
+            "icon_category": "shop",
+            "lat": 39.107674,
+            "lng": -94.58475609999999
+        },
+        {
+            "formatted_address": "309 Main St, Kansas City, MO 64105, USA",
+            "name": "Habashi House",
+            "place_id": "ChIJvf3myvTwwIcR8zzvGHzOlSU",
+            "price_level": 1,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 421-0414",
+            "website": "http://www.habashihouse.com/",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "Long-running KC institution serving Yemeni and Middle Eastern comfort food. Known for huge portions and rice dishes. Budget-friendly.",
+            "tags": ["mediterranean"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 39.1094279,
+            "lng": -94.58299389999999
+        },
+        {
+            "formatted_address": "300 Delaware St, Kansas City, MO 64105, USA",
+            "name": "The Farmhouse",
+            "place_id": "ChIJuSMs7_TwwIcROCsOjA8nTRg",
+            "price_level": 2,
+            "rating": 4.4,
+            "types": [
+                "bar",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 569-6032",
+            "website": "http://eatatthefarmhouse.com/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fPM"
+            ],
+            "notes": "Beloved farm-to-table spot in the River Market with a focus on locally sourced breakfast and brunch.",
+            "tags": ["farm-to-table", "breakfast", "brunch"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 39.1094079,
+            "lng": -94.58469939999999
+        },
+        {
+            "formatted_address": "20 E 5th St, Kansas City, MO 64106, USA",
+            "name": "Enzo",
+            "place_id": "ChIJRc6EdfjxwIcR8rRHES5sqWY",
+            "price_level": 2,
+            "rating": 4.5,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 800-4054",
+            "website": "http://enzokcmo.com/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: 3:00\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 3:00\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "notes": "Italian-American restaurant with handmade pastas and an intimate dining room.",
+            "tags": ["italian", "upscale"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 39.1086909,
+            "lng": -94.58192969999999
+        }
+    ]
+}

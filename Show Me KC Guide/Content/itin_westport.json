@@ -1,0 +1,176 @@
+{
+    "itinerary_name": "Westport",
+    "radius": 800,
+    "short_description": "KC's original entertainment district — legendary bars, great food, and live music on every block.",
+    "long_description": "Westport is Kansas City's oldest commercial neighborhood and still one of its most vibrant. Centered around the intersection of Westport Road and Broadway, it's a dense, walkable mix of independent restaurants, dive bars, and live music venues that draw locals of all ages. \n\nStart the day with breakfast or brunch at Room 39, one of KC's most beloved farm-to-table spots — known for its croissant-style biscuits, huevos rancheros, and brioche French toast. When hunger strikes again, Gaia Masala & Burger is a Himalayan-fusion gem open until 3am with a cult-favorite Chicken Tikka Masala cheesesteak. The Westport Flea Market Bar serves up Food Network-featured burgers in an iconic cash-only setting with arcade machines and live music. \n\nAs evening falls, the neighborhood shifts into full gear. Kelly's Westport Inn is the historic anchor of the bar scene, operating out of one of the oldest buildings in KC since 1947 — cheap drinks, friendly bartenders, and great people-watching. Mickey's Hideaway is the spot for smash burgers and what many locals consider the best patio in Westport. And if live music is on the agenda, The Riot Room is one of KC's best small venues — intimate enough that the band feels practically in your face, with 20+ taps to keep the night going.",
+    "locations": [
+
+        {
+            "formatted_address": "1719 W 39th St, Kansas City, MO 64111, USA",
+            "name": "Room 39",
+            "place_id": "ChIJu5DhjCzuwIcRQ2rCFQaF7S4",
+            "price_level": 2,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 753-3939",
+            "website": "http://www.rm39.com/",
+            "opening_hours": [
+                "Monday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+            ],
+            "notes": "Farm-to-table mainstay. Breakfast/lunch and dinner daily. Croissant-style biscuits, huevos rancheros, brioche French toast. One of the best breakfast spots in KC.",
+            "tags": ["farm-to-table", "breakfast", "brunch"],
+            "include": true,
+            "icon_category": "cafe",
+            "lat": 39.0571096,
+            "lng": -94.6059101
+        },
+        {
+            "formatted_address": "425 Westport Rd, Kansas City, MO 64111, USA",
+            "name": "Gaia Masala & Burger Westport",
+            "place_id": "ChIJ99vsS2DvwIcRsG0PUhm4hyE",
+            "price_level": 2,
+            "rating": 4.9,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 603-4242",
+            "website": "https://gaiamasalaandburger.com/",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Sunday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM"
+            ],
+            "notes": "Late-night Himalayan-fusion spot. GF/vegan-friendly. Chicken Tikka Masala cheesesteak is the move.",
+            "tags": ["late night", "fusion"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 39.0528731,
+            "lng": -94.590921
+        },
+        {
+            "formatted_address": "817 Westport Rd, Kansas City, MO 64111, USA",
+            "name": "Westport Flea Market",
+            "place_id": "ChIJqf0l_87vwIcRe7LCMP85peA",
+            "price_level": 1,
+            "rating": 4.3,
+            "types": [
+                "bar",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(816) 931-1986",
+            "website": "https://www.westportfleamarket.com/",
+            "opening_hours": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u200911:15\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:15\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:15\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u200911:15\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u200912:15\u202fAM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u200912:15\u202fAM",
+                "Sunday: 9:00\u202fAM\u2009\u2013\u200911:15\u202fPM"
+            ],
+            "notes": "KC institution with a Food Network-featured burger. Cash only. Dive-bar atmosphere, arcade machines, live music, great onion rings.",
+            "tags": ["dive bar", "late night", "live music"],
+            "include": true,
+            "icon_category": "bar",
+            "lat": 39.0508736,
+            "lng": -94.59621779999999
+        },
+        {
+            "formatted_address": "500 Westport Rd, Kansas City, MO 64111, USA",
+            "name": "Kelly's Westport Inn",
+            "place_id": "ChIJo1NUO8XvwIcRojl-LrjYlEU",
+            "price_level": 1,
+            "rating": 4.4,
+            "types": [
+                "bar",
+                "establishment",
+                "point_of_interest"
+            ],
+            "phone": "(816) 561-5800",
+            "website": "http://www.kellyswestportinn.com/",
+            "opening_hours": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM"
+            ],
+            "notes": "The oldest bar in KC, operating since 1947. The anchor of the Westport bar scene. Cheap drinks, friendly bartenders, great people-watching.",
+            "tags": ["dive-bar", "late-night"],
+            "include": true,
+            "icon_category": "bar",
+            "lat": 39.0528862,
+            "lng": -94.59172219999999
+        },
+        {
+            "formatted_address": "4057 Pennsylvania Ave, Kansas City, MO 64111, USA",
+            "name": "Mickey's Hideaway",
+            "place_id": "ChIJsy__d3_vwIcRs-HlQX31O58",
+            "price_level": 2,
+            "rating": 4.4,
+            "types": [
+                "bar",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": null,
+            "website": null,
+            "opening_hours": null,
+            "notes": "Lively pub with a great patio (best patio in Westport per reviews). Stellar smash burgers, creative brunch, full bar.",
+            "tags": ["brunch", "craft beer"],
+            "include": true,
+            "icon_category": "bar",
+            "lat": 39.0531397,
+            "lng": -94.59154509999999
+        },
+        {
+            "formatted_address": "4048 Broadway Blvd, Kansas City, MO 64111, USA",
+            "name": "The Riot Room",
+            "place_id": "ChIJ_8Hv1cTvwIcRlaWgWbAHJls",
+            "price_level": null,
+            "rating": 4.4,
+            "types": [
+                "bar",
+                "establishment",
+                "point_of_interest"
+            ],
+            "phone": null,
+            "website": null,
+            "opening_hours": null,
+            "notes": "Intimate live music venue with 20+ rotating taps. Holds 250 but feels like a club show. Bands practically in your face. One of KC's best small live music spots.",
+            "tags": ["live music", "craft beer"],
+            "include": true,
+            "icon_category": "music",
+            "lat": 39.0535608,
+            "lng": -94.59106919999999
+        }
+
+
+
+    ]
+}

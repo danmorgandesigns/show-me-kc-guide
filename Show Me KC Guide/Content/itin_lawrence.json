@@ -1,0 +1,221 @@
+{
+    "itinerary_name": "Lawrence, KS — Massachusetts Street",
+    "radius": 600,
+    "short_description": "College town charm, craft beer, cat cafes, and great eats along one of the Midwest's best main streets.",
+    "long_description": "Massachusetts Street in Lawrence, Kansas is one of the great walkable main streets in the Midwest — a lively, independent-spirited strip anchored by the University of Kansas that manages to feel both college-town casual and genuinely sophisticated. \n\nStart the morning at Global Cafe, a cozy brunch spot with a globally inspired menu and a relaxed, unhurried vibe. For coffee with a twist, Espurresso Cat Cafe pairs specialty drinks with resident adoptable cats in a charming storefront further up Mass St. Art lovers should carve out time for the Spencer Museum of Art on the KU campus — a free, world-class collection with rotating exhibitions and free validated parking. \n\nFree State Brewing Company is a Lawrence institution — the beloved original brewpub that helped define craft beer culture in Kansas, with house-brewed beers and a solid pub menu. For a more upscale dinner, Mass St. Fish House & Raw Bar delivers fresh oysters and refined seafood that stands apart in a college town setting. \n\nAfter dinner, John Brown's Underground is the place for a well-crafted cocktail in an intimate, moody atmosphere just off the main strip. Cap the evening — or sneak it in any time of day — with a scoop at Sylas and Maddy's Homemade Ice Cream, a Lawrence landmark scooping made-from-scratch flavors with a devoted local following.",
+    "locations": [
+        {
+            "formatted_address": "636 Massachusetts St, Lawrence, KS 66044, USA",
+            "name": "Free State Brewing Company",
+            "place_id": "ChIJLTvA4Fxvv4cRmNaLDmD6DlY",
+            "price_level": 2,
+            "rating": 4.6,
+            "types": [
+                "bar",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(785) 843-4555",
+            "website": "http://www.freestatebrewing.com/",
+            "opening_hours": [
+                "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+            ],
+            "notes": "Lawrence's beloved original brewpub, serving house-crafted beers and a full pub menu in a casual, welcoming space on Mass St.",
+            "tags": ["craft beer"],
+            "include": true,
+            "icon_category": "beer",
+            "lat": 38.9717607,
+            "lng": -95.2355379
+        },
+        {
+            "formatted_address": "719 Massachusetts St, Lawrence, KS 66044, USA",
+            "name": "Mass St. Fish House & Raw Bar",
+            "place_id": "ChIJ-2d6uVxvv4cRRR6z-Xp6e5s",
+            "price_level": 3,
+            "rating": 4.6,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(785) 856-1081",
+            "website": "http://www.massfishhouse.com/",
+            "opening_hours": [
+                "Monday: 4:00\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 4:00\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 4:00\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 4:00\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 4:00\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 4:00\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 4:00\u2009\u2013\u200910:00\u202fPM"
+            ],
+            "notes": "Upscale seafood restaurant on Massachusetts St with fresh oysters, a raw bar, and a refined dinner menu that stands out in a college town.",
+            "tags": ["seafood"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 38.9705261,
+            "lng": -95.2360988
+        },
+        {
+            "formatted_address": "820 Massachusetts St, Lawrence, KS 66044, USA",
+            "name": "Global Cafe",
+            "place_id": "ChIJxQsYQltvv4cRQzzOBuXnQzk",
+            "price_level": 1,
+            "rating": 4.5,
+            "types": [
+                "bar",
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(785) 838-4600",
+            "website": "http://www.globalcafelawrence.com/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+                "Saturday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
+                "Sunday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fPM"
+            ],
+            "notes": "Cozy, globally inspired breakfast and brunch spot with a laid-back vibe and an eclectic menu. A Mass St. morning staple.",
+            "tags": ["fusion"],
+            "include": true,
+            "icon_category": "cafe",
+            "lat": 38.9685624,
+            "lng": -95.23572399999999
+        },
+        {
+            "formatted_address": "7 E 7th St, Lawrence, KS 66044, USA",
+            "name": "John Brown's Underground",
+            "place_id": "ChIJxzkA7Fxvv4cRCX6pmc8h6so",
+            "price_level": 2,
+            "rating": 4.8,
+            "types": [
+                "bar",
+                "establishment",
+                "point_of_interest"
+            ],
+            "phone": "(785) 840-8800",
+            "website": "http://www.freelawrence.com/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+                "Thursday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+                "Friday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+                "Saturday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+                "Sunday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+            ],
+            "notes": "Intimate craft cocktail bar tucked just off Mass St with a thoughtfully curated drink menu and moody atmosphere. One of Lawrence's best kept secrets.",
+            "tags": ["cocktails"],
+            "include": true,
+            "icon_category": "bar",
+            "lat": 38.97108739999999,
+            "lng": -95.235393
+        },
+        {
+            "formatted_address": "1014 Massachusetts St, Lawrence, KS 66044, USA",
+            "name": "Espurresso Cat Cafe",
+            "place_id": "ChIJrQ_nrRFvv4cRH_EvwCIO8R8",
+            "price_level": 1,
+            "rating": 4.6,
+            "types": [
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "store"
+            ],
+            "phone": "(785) 856-0553",
+            "website": "http://www.espurressocatcafe.com/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: Closed",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+                "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+            ],
+            "notes": "Lawrence's only cat cafe, pairing specialty coffee drinks with resident cats available for adoption. A charming and unique stop on Mass St.",
+            "tags": ["espresso", "coffee"],
+            "include": true,
+            "icon_category": "cafe",
+            "lat": 38.9650289,
+            "lng": -95.23561989999999
+        },
+        {
+            "formatted_address": "1101 Massachusetts St, Lawrence, KS 66044, USA",
+            "name": "Sylas and Maddy's Homemade Ice Cream",
+            "place_id": "ChIJjehqvVpvv4cRLly3e74vAbo",
+            "price_level": 1,
+            "rating": 4.8,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "store"
+            ],
+            "phone": "(785) 832-8323",
+            "website": "http://www.sylasandmaddysicecream.com/",
+            "opening_hours": [
+                "Monday: 12:00\u2009\u2013\u20099:30\u202fPM",
+                "Tuesday: 12:00\u2009\u2013\u20099:30\u202fPM",
+                "Wednesday: 12:00\u2009\u2013\u20099:30\u202fPM",
+                "Thursday: 12:00\u2009\u2013\u20099:30\u202fPM",
+                "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20099:30\u202fPM"
+            ],
+            "notes": "A Lawrence landmark with a devoted following, scooping rich, made-from-scratch ice cream in rotating flavors. A must-stop on Mass St.",
+            "tags": ["ice cream"],
+            "include": true,
+            "icon_category": "cafe",
+            "lat": 38.963602,
+            "lng": -95.2361892
+        },
+        {
+            "formatted_address": "1301 Mississippi St, Lawrence, KS 66045, USA",
+            "name": "Spencer Museum of Art",
+            "place_id": "ChIJQSvCc0lvv4cRXrABX6UkwFI",
+            "price_level": null,
+            "rating": 4.5,
+            "types": [
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(785) 864-4710",
+            "website": "https://spencerart.ku.edu/",
+            "opening_hours": [
+                "Monday: Closed",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 12:00\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "The University of Kansas's free art museum with a diverse permanent collection spanning global and historical works, plus rotating exhibitions. Free admission with free validated parking.",
+            "tags": ["art", "family", "free","museum"],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 38.9596541,
+            "lng": -95.2445845
+        }
+    ]
+}

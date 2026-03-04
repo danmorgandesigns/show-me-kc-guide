@@ -1,0 +1,100 @@
+{
+    "itinerary_name": "Plaza Shopping & Arts District",
+    "radius": 1000,
+    "short_description": "Compras, cultura y arte de talla mundial en el barrio más emblemático de Kansas City.",
+    "long_description": "El Country Club Plaza y el distrito artístico Midtown que lo rodea ofrecen una de las experiencias urbanas más gratificantes y fáciles de recorrer a pie de Kansas City. Comience en el Country Club Plaza, de inspiración española, para ir de compras y comer, y luego pasee hacia el norte hasta el famoso Museo de Arte Nelson-Atkins, que alberga una extraordinaria colección permanente que abarca 5000 años de historia. A solo unas manzanas de distancia, el Museo de Arte Contemporáneo Kemper completa la visita con obras modernas y atrevidas en un edificio llamativo. Juntos, estos tres destinos conforman una rica excursión de medio día o de día completo.",
+    "locations": [
+        {
+            "formatted_address": "4706 Broadway Blvd, Kansas City, MO 64112, USA",
+            "name": "Country Club Plaza",
+            "place_id": "ChIJr4r_377vwIcRmXCBhXNEPas",
+            "price_level": null,
+            "rating": 4.5,
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant",
+                "shopping_mall"
+            ],
+            "phone": "(816) 753-0100",
+            "website": "https://countryclubplaza.com/?utm_source=GoogleMyBusiness&utm_medium=Organic&utm_campaign=GMB",
+            "opening_hours": [
+                "Lunes: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Martes: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Miércoles: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Jueves: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Viernes: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Sabado: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+                "Domingo: 12:00\u2009\u2013\u20096:00\u202fPM"
+            ],
+            "notes": "",
+            "tags": [],
+            "include": true,
+            "icon_category": "shop",
+            "lat": 39.0419692,
+            "lng": -94.5926089
+        },
+        {
+            "formatted_address": "4525 Oak St, Kansas City, MO 64111, USA",
+            "name": "The Nelson-Atkins Museum of Art",
+            "place_id": "ChIJRSCf3ervwIcRxcTG-WmRVis",
+            "price_level": null,
+            "rating": 4.8,
+            "types": [
+                "art_gallery",
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 751-1278",
+            "website": "https://www.nelson-atkins.org/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-listing",
+            "opening_hours": [
+                "Lunes: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Martes: Cerrado",
+                "Miércoles: Cerrado",
+                "Jueves: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Viernes: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Sabado: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Domingo: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+            ],
+            "notes": "",
+            "tags": [],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.0449506,
+            "lng": -94.58092839999999
+        },
+        {
+            "formatted_address": "4420 Warwick Blvd, Kansas City, MO 64111, USA",
+            "name": "Kemper Museum of Contemporary Art",
+            "place_id": "ChIJjz4brcHvwIcRGPdob2HHTD0",
+            "price_level": null,
+            "rating": 4.6,
+            "types": [
+                "establishment",
+                "museum",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(816) 753-5784",
+            "website": "http://www.kemperart.org/",
+            "opening_hours": [
+                "Lunes: Cerrado",
+                "Martes: Cerrado",
+                "Miércoles: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Jueves: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+                "Viernes: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Sabado: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+                "Domingo: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+            ],
+            "notes": "",
+            "tags": [],
+            "include": true,
+            "icon_category": "museum",
+            "lat": 39.04643,
+            "lng": -94.5851292
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "itinerary_name": "Downtown Overland Park, KS",
+    "radius": 2000,
+    "short_description": "Craft beer, antiques, board games, and world-class art in OP's eclectic core.",
+    "long_description": "Overland Park's downtown and Metcalf corridor offer a surprisingly diverse mix of destinations spread across a few miles of the city's older core. The Marty Street area anchors the northern end with a genuine neighborhood feel: Brew Lab is a beloved local craft brewery and kitchen, Petersons Antiques is a well-regarded shop that's been a fixture for decades, and Atomic Cowboy brings Denver Biscuit Co. and Fat Sully's NY Pizza under one roof for an all-day food and bar destination. A short drive south on Metcalf leads to Cardboard Corner Cafe, a highly rated board game cafe perfect for a laid-back afternoon. Nearby, the Johnson County Arts and Heritage Center offers rotating exhibits and permanent collections celebrating the region's history and creative culture — and it's free. For serious contemporary art, the Nerman Museum of Contemporary Art on the Johnson County Community College campus is a genuine gem, housing one of the most significant collections in the region in a striking building with free admission.",
+    "locations": [
+        {
+            "formatted_address": "7925 Marty St, Overland Park, KS 66204, USA",
+            "name": "Brew Lab",
+            "place_id": "ChIJudUGOXHswIcRcPtrYBSTaDc",
+            "price_level": 2,
+            "rating": 4.5,
+            "types": [
+                "bar",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(913) 400-2343",
+            "website": "https://www.brewlabkc.com/",
+            "opening_hours": [
+                "Monday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 3:00\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+            ],
+            "notes": "Craft brewery and pub in the heart of downtown OP. House beers, truffle parm fries, great Reuben.",
+            "tags": ["craft beer"],
+            "include": true,
+            "icon_category": "beer",
+            "lat": 38.9852169,
+            "lng": -94.6696004
+        },
+        {
+            "formatted_address": "7101 W 80th St, Overland Park, KS 66204, USA",
+            "name": "Atomic Cowboy home of Denver Biscuit Co & Fat Sully's NY Pizza (Overland Park)",
+            "place_id": "ChIJuV7d7iDtwIcR3tT9fYkjIeU",
+            "price_level": 2,
+            "rating": 4.2,
+            "types": [
+                "bar",
+                "establishment",
+                "food",
+                "meal_delivery",
+                "meal_takeaway",
+                "point_of_interest",
+                "restaurant"
+            ],
+            "phone": "(913) 600-2306",
+            "website": "https://www.theatomiccowboy.com/locations-overlandpark",
+            "opening_hours": [
+                "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Tuesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Wednesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Thursday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Friday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+                "Sunday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+            ],
+            "notes": "Downtown OP anchor. Denver Biscuit Co breakfast until ~11am then pivots to Fat Sully's NY Pizza. Fried chicken biscuit sandwich is the star.",
+            "tags": ["breakfast", "brunch", "pizza", "late night"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 38.9838159,
+            "lng": -94.66833869999999
+        },
+        {
+            "formatted_address": "7829 Marty St, Overland Park, KS 66204, USA",
+            "name": "Petersons Antiques",
+            "place_id": "ChIJ8brbOHLswIcR4mD_OU72Q3U",
+            "price_level": null,
+            "rating": 4.4,
+            "types": [
+                "establishment",
+                "home_goods_store",
+                "point_of_interest",
+                "store"
+            ],
+            "phone": "(913) 341-5065",
+            "website": "http://www.petersonsantiques.com/",
+            "opening_hours": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+                "Sunday: Closed"
+            ],
+            "notes": "Rooms and rooms of furniture and fine antiques right in the downtown OP block. Owner knows the pieces, also does wood restoration.",
+            "tags": ["antiques"],
+            "include": true,
+            "icon_category": "shop",
+            "lat": 38.986541,
+            "lng": -94.669694
+        },
+        {
+            "formatted_address": "9240 Metcalf Ave, Overland Park, KS 66212, USA",
+            "name": "Cardboard Corner Cafe",
+            "place_id": "ChIJpf-mPnnrwIcRFWeXPxb3ck8",
+            "price_level": 1,
+            "rating": 4.8,
+            "types": [
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest"
+            ],
+            "phone": "(913) 208-2227",
+            "website": "https://cardboardcornerkc.com/",
+            "opening_hours": [
+                "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 10:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Saturday: 10:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+                "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+            ],
+            "notes": "Board game café on Metcalf with hundreds of games free to play. Waffle-focused food menu, good beer selection. Perfect afternoon stop.",
+            "tags": ["board-games", "coffee", "craft-beer"],
+            "include": true,
+            "icon_category": "restaurant",
+            "lat": 38.9619966,
+            "lng": -94.66997529999999
+        },
+        {
+            "formatted_address": "8788 Metcalf Ave, Overland Park, KS 66212, USA",
+            "name": "Johnson County Arts And Heritage Center",
+            "place_id": "ChIJA2a8po3rwIcRdCVCapswGVs",
+            "price_level": null,
+            "rating": 4.7,
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "tourist_attraction"
+            ],
+            "phone": "(913) 826-2787",
+            "website": "https://www.jcprd.com/327/Arts-Heritage-Center",
+            "opening_hours": [
+                "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Friday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Saturday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+                "Sunday: Closed"
+            ],
+            "notes": "FREE cultural center on Metcalf with rotating art exhibits, classes, and a great museum gift shop. Worth 45 min.",
+            "tags": ["art", "history", "free", "family"],
+            "include": true,
+            "icon_category": "family",
+            "lat": 38.9698449,
+            "lng": -94.6681692
+        },
+    ]
+}
