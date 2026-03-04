@@ -48,14 +48,10 @@ enum ItineraryLoader {
     /// Load all itineraries in the current language
     static func loadAll(matching prefix: String = "itin_") -> [Itinerary] {
         guard let bundleURL = Bundle.main.resourceURL else { return [] }
-        guard let contentURL = bundleURL.appendingPathComponent("Content", isDirectory: true) as URL? else {
-            print("ItineraryLoader: Content directory not found")
-            return []
-        }
         
         do {
             let fileURLs = try FileManager.default.contentsOfDirectory(
-                at: contentURL,
+                at: bundleURL,
                 includingPropertiesForKeys: nil
             )
             
@@ -78,7 +74,7 @@ enum ItineraryLoader {
             return itineraries.sorted { $0.center.latitude > $1.center.latitude } // North to South
             
         } catch {
-            print("ItineraryLoader: Failed to scan Content directory — \(error)")
+            print("ItineraryLoader: Failed to scan bundle directory — \(error)")
             return []
         }
     }
@@ -86,7 +82,7 @@ enum ItineraryLoader {
     // MARK: - Private Helpers
     
     private static func loadFile(_ filename: String) -> Itinerary? {
-        guard let url = Bundle.main.url(forResource: filename, withExtension: "json", subdirectory: "Content") else {
+        guard let url = Bundle.main.url(forResource: filename, withExtension: "json") else {
             return nil
         }
         do {

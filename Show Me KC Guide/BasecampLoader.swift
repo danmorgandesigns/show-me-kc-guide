@@ -9,8 +9,8 @@ import Foundation
 
 enum BasecampLoader {
     static func loadAll() -> [Basecamp] {
-        guard let url = Bundle.main.url(forResource: "basecamps", withExtension: "json", subdirectory: "Content") else {
-            print("BasecampLoader: Could not find basecamps.json in Content directory.")
+        guard let url = Bundle.main.url(forResource: "basecamps", withExtension: "json") else {
+            print("BasecampLoader: Could not find basecamps.json in bundle.")
             return []
         }
         do {

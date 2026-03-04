@@ -9,8 +9,8 @@ import Foundation
 
 enum LandmarkLoader {
     static func loadAll() -> [Landmark] {
-        guard let url = Bundle.main.url(forResource: "landmarks", withExtension: "json", subdirectory: "Content") else {
-            print("LandmarkLoader: Could not find landmarks.json in Content directory.")
+        guard let url = Bundle.main.url(forResource: "landmarks", withExtension: "json") else {
+            print("LandmarkLoader: Could not find landmarks.json in bundle.")
             return []
         }
         do {
